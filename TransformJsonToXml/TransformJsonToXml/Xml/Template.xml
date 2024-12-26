@@ -1,0 +1,12 @@
+﻿<root>
+	<books>
+		<book>
+			<title>{{.books[].title}}</title>
+			<author>{{.books[].author}}</author>
+			<static>string statik</static>
+			<price>{{.books[].price}}</price>
+		</book>
+	</books>
+	<notebook>{{.notebook}}</notebook>
+	<other-static>other static value</other-static>
+</root>

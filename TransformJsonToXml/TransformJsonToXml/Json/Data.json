@@ -1,0 +1,20 @@
+{
+  "books": [
+    {
+      "title": "Yeni Başlık 1",
+      "author": "Yeni Yazar 1",
+      "price": "39.99"
+    },
+    {
+      "title": "Yeni Başlık 2",
+      "author": "Yeni Yazar 2",
+      "price": "49.99"
+    },
+    {
+      "title": "Yeni Başlık 3",
+      "author": "Yeni Yazar 3",
+      "price": "49.99"
+    }
+  ],
+  "notebook": "Yellow Notebook"
+}

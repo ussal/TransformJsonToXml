@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kuKALIu6l6E=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ahmet.karadas\\Desktop\\TransformJsonToXml\\TransformJsonToXml\\TransformJsonToXml.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ahmet.karadas\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
